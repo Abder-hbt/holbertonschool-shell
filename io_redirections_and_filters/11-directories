@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A gfg | wc -l
+ls -A | wc --lines
