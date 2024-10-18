@@ -1,2 +1,2 @@
 #!/bin/bash
-export 'whoami'="Hello World!"
+export whoami="Hello World!"
